@@ -1,9 +1,4 @@
-<header class="page-header">
-<h1 class="header-name">Martin Chocoza</h1>
-<div class="title-bar">
-<h2 class="header-title">Data Analyst</h2>
-</div>
-<div class="executive-summary">
+
 <p>Interested in opportunities for professional growth and participation in challenging projects on which I could have the chance to contributing by providing expertise, skills and passion for technology to the end user solutions.</p>
 </div>
 <a class="contact-button not-looking">I'm not looking for work right now.</a></header>
@@ -104,11 +99,9 @@
 </header>
 <div class="resume-item">
 <ul class="resume-item-list">
-<li><a href="https://www.izaac.me/#">TODO</a></li>
-<li><a href="https://www.izaac.me/#">TODO</a></li>
 </ul>
 </div>
 </section>
 <footer class="page-footer">
-<p class="footer-line">Made live using Jekyll and Github Pages</p>
+<p class="footer-line">Made live using Github Pages</p>
 </footer>
