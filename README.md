@@ -1,5 +1,5 @@
 
-<p>Interested in opportunities for professional growth and participation in challenging projects on which I could have the chance to contributing by providing expertise, skills and passion for technology to the end user solutions.</p>
+<p>Interested in opportunities for professional growth and participation in challenging projects on which I could have the chance to contribute by providing expertise, skills and passion for analytics.</p>
 </div>
 <a class="contact-button not-looking">I'm not looking for work right now.</a></header>
 <section class="content-section"><header class="section-header">
