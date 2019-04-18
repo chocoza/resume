@@ -63,8 +63,8 @@
 <h2>Skills</h2>
 </header>
 <div class="resume-item">
-<h4 class="resume-item-details">Web Automation</h4>
-<p class="resume-item-copy">WebdriverIO, NodeJs, Capybara, Ruby, Python, Scrapy, JMeter</p>
+<h4 class="resume-item-details">Lenguages</h4>
+<p class="resume-item-copy">VB, VBA, Python, R,  Batch Files, CMD, SQL (Oracle, PostgreSQL, SQL Server, MySQL), PL/SQL, HTML, CSS</p>
 </div>
 <div class="resume-item">
 <h4 class="resume-item-details">Manual QA</h4>
